@@ -1,8 +1,8 @@
 $(document).ready(function () {
     $('.carousel').slick({
-        autoplay : true ,
-        autoplaySpeed : 3000,
-        speed:1500
+        // autoplay : true ,
+        // autoplaySpeed : 3000,
+        // speed:1500
 
     });
 });
@@ -243,3 +243,6 @@ $('a[href*="#"]:not([href="#"])').click(function() {
         }
     }
 });
+
+
+
